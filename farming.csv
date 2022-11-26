@@ -1,10 +1,10 @@
-﻿Year,2016,2021
-Total number of operators,"271,935","262,455"
-Male,"193,965","182,655"
-Female,"77,970","79,795"
-Under 35 years,"24,850","22,635"
-35 to 54 years,"98,840","81,040"
-55 years and over,"148,250","158,790"
-Average age,55,56
-Operators with no paid non-farm work,"151,270","137,170"
-Operators with paid non-farm work,"120,670","125,280"
+﻿Rule,Value
+Total number of operators,"262,455"
+Male,"182,655"
+Female,"79,795"
+Under 35 years,"22,635"
+35 to 54 years,"81,040"
+55 years and over,"158,790"
+Average age,56
+Operators with no paid non-farm work,"137,170"
+Operators with paid non-farm work,"125,280"
